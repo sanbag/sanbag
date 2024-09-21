@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sanbag
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning java script and crypto tech
+- 🌱 I’m Data Engineer 
 - 💞️ I’m looking to collaborate on MERN stack project
-- 📫 How to reach me ........baggonsantosh@gmail.com
+- 📫 How to reach me ........ baggonsantosh@gmail.com
 
 <!---
 sanbag/sanbag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
