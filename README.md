@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanbag
 - 👀 I’m interested in Data
 - 🌱 I’m Data Engineer 
-- 💞️ I’m looking to collaborate on MERN stack project
 - 📫 How to reach me ........ baggonsantosh@gmail.com
 
 <!---
